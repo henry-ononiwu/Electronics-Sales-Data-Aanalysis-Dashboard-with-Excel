@@ -20,4 +20,4 @@ A comprehensive sales dashboard providing insights into revenue, customer behavi
 
 - ## 📸 Dashboard Preview
 
-![Electronics Store Sales Dashboard](Images/Excel%20Data%20Analysis%20Project%202.jpg)
+![Electronics Store Sales Dashboard](Images/Excel Data Analysis Project 2.jpg)
