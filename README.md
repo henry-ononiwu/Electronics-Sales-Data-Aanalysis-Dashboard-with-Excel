@@ -11,13 +11,11 @@ A comprehensive sales dashboard providing insights into revenue, customer behavi
 - Profitability Analysis
 - Sales Trend Analysis
 
-- Excel Data Analysis Project 2.JPG
-
 **Business Impact**
 - Improved sales forecasting
 - Identified high-value customers
 - Enhanced product performance monitoring
 
-- <p align="center">
-  <img src="./Images/Excel%20Data%20Analysis%20Project%202.jpg" width="900" alt="Electronics Sales Dashboard">
-</p>
+## 📸 Dashboard Preview
+
+![Electronics Sales Dashboard](Images/Excel%20Data%20Analysis%20Project%202.jpg)
