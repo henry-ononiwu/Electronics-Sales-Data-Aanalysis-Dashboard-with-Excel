@@ -18,4 +18,4 @@ A comprehensive sales dashboard providing insights into revenue, customer behavi
 - Identified high-value customers
 - Enhanced product performance monitoring
 
-![Electronics Sales Dashboard](Images/Excel%20Data%20Analysis%20Project%202.jpg)
+![Dashboard](Images/Excel%20Data%20Analysis%20Project%202.jpg)
