@@ -11,6 +11,8 @@ A comprehensive sales dashboard providing insights into revenue, customer behavi
 - Profitability Analysis
 - Sales Trend Analysis
 
+- Excel Data Analysis Project 2.JPG
+
 **Business Impact**
 - Improved sales forecasting
 - Identified high-value customers
